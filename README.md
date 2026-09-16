@@ -2,12 +2,14 @@
   Locky est un rançongiciel (ransomware) malveillant découvert en février 2016 qui chiffre les fichiers d'un ordinateur et réclame une rançon en bitcoins. 
   
 Fonctionnement de l'attaque
+
 Propagation : Le virus arrive par e-mail sous forme de fausse facture (souvent au format Word ou ZIP).
 infection : Le document demande d'activer les macros Microsoft Word.
 Chiffrement : Une fois activées, les macros lancent un code qui télécharge le malware et crypte les documents, photos et vidéos de la victime.
 Rançon : Le fond d'écran change et une note exige un paiement en bitcoins via le réseau Tor pour obtenir un moyen de déchiffrement incertain.
 
 Comment se protéger?
+
 Prudence : Ne jamais ouvrir les pièces jointes d'e-mails suspects.
 Macros : Désactiver l'activation automatique des macros dans les logiciels bureautiques.
 Sauvegardes : Conserver des sauvegardes régulières des données sur des supports déconnectés.
